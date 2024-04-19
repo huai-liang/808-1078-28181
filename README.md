@@ -10,3 +10,5 @@ springcloud alibaba mysql redis oss
 ![输入图片说明](%E5%9B%9E%E6%94%BE%E8%A7%86%E9%A2%91.png)
 ![输入图片说明](%E7%AB%99%E7%82%B9%E5%AE%9E%E6%97%B6.png)
 ![输入图片说明](%E7%AB%99%E7%82%B9%E5%9B%9E%E6%94%BE.png)
+
+如果对项目有兴趣，请加qq:3178676884,备注gitee
